@@ -1,7 +1,7 @@
  Hi, I’m @gauri-ii
-👀 I’m interested in ML
-🌱 I’m currently learning EDA
- 💞️ I’m looking to collaborate in the FinTech Domain
+and I’m interested in ML
+
+ anddd I’m looking to collaborate in the FinTech Domain
 
 
 ⚡ Fun fact: I've seen a terrorist IRL and i knew he was a terrorist at the time. Reach out to me to know more;)
