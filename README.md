@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @gauri-ii
-- 👀 I’m interested in ML
-- 🌱 I’m currently learning EDA
-- 💞️ I’m looking to collaborate in the FinTech Domain
+ Hi, I’m @gauri-ii
+👀 I’m interested in ML
+🌱 I’m currently learning EDA
+ 💞️ I’m looking to collaborate in the FinTech Domain
 
 
-- ⚡ Fun fact: I've seen a terrorist IRL and i knew he was a terrorist at the time. Reach out to me to know more;)
+⚡ Fun fact: I've seen a terrorist IRL and i knew he was a terrorist at the time. Reach out to me to know more;)
 
 <!---
 gauri-ii/gauri-ii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
